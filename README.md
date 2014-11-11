@@ -1,6 +1,9 @@
 Twitter Bootstrap Extension for Yii 2
 =====================================
 
+nbogol version
+
+
 This is the Twitter Bootstrap extension for Yii 2. It encapsulates Bootstrap components
 and plugins in terms of Yii widgets, and thus makes using Bootstrap components/plugins
 in Yii applications extremely easy. For example, the following
